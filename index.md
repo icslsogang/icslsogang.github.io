@@ -18,7 +18,7 @@ Welcome to Intelligent Connected Systems Laboratory. We conduct research on next
 - Hyeonsang Cho (M.S. student)
 - Sanghyun Ahn (M.S. student)
 - Minjun Lee (Undergraduate Intern)
-</br>
+&nbsp;
 
 #### Former Graduate Students
 
