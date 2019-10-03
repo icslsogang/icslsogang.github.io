@@ -30,9 +30,7 @@ Welcome to Intelligent Connected Systems Laboratory. We conduct research on next
 ---
 
 ### Research
-
 &nbsp;
-
 #### Next-Generation Wireless Network Protocols
 
 Future wireless networks will need to cope with rapidly increasing traffic and population of users. Increasing capacity of wireless networks involves improving spectrum efficiency, utilizing new frequency bands, and using advanced hardware and software techniques such as full-duplex communication and non-orthogonal multiple access (NOMA). We are interested in designing protocols and algorithms that fully utilize the new hardware and techniques.
