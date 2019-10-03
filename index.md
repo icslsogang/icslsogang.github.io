@@ -19,8 +19,6 @@ Welcome to Intelligent Connected Systems Laboratory. We conduct research on next
 - Sanghyun Ahn (M.S. student)
 - Minjun Lee (Undergraduate Intern)
 
-
-
 #### Former Graduate Students
 
 - Yonghwi Kim (M.S., Hallym Univ.)
@@ -33,6 +31,7 @@ Welcome to Intelligent Connected Systems Laboratory. We conduct research on next
 
 ### Research
 
+&nbsp;
 
 #### Next-Generation Wireless Network Protocols
 
