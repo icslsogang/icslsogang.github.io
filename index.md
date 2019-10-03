@@ -82,51 +82,29 @@ Attacks on networks and systems can be detected by machine learning techniques s
 
 #### Fall 2019
 
-#### Fall 2019
-
-CSE3081 Design and Analysis of Algorithms
-
+CSE3081 Design and Analysis of Algorithms  
 CSE3040 Java Programming
 
 #### Spring 2019
 
-CSE6423 Computer Networks I (Graduate)
-
+CSE6423 Computer Networks I (Graduate)  
 CSE4100 System Programming
 
 #### Fall 2018
 
-CSE4070 Operating Systems
-
+CSE4070 Operating Systems  
 CSE3081 Design and Analysis of Algorithms
 
 #### Prior Courses Taught by Prof. Jungmin So (at Hallym Univ.)
 
-Undergraduate: Data Communications, Computer Networks, Linear Algebra, Embedded Hardware Design, Embedded System Software
-
+Undergraduate: Data Communications, Computer Networks, Linear Algebra, Embedded Hardware Design, Embedded System Software  
 Graduate: Advanced Computer Networks, Seminars in Wireless Communication Networks, Topics in Wireless Communication Systems
 
 ---
 
 ### Contact 
 
-Office: AS-818, Adam Schall Building, Sogang University
-
-35 Baekbeom-ro, Mapo-gu, Seoul 04107, Korea
-
-Prof. Jungmin So: jso1 at sogang dot ac dot kr
-
+Office: AS-818, Adam Schall Building, Sogang University  
+35 Baekbeom-ro, Mapo-gu, Seoul 04107, Korea  
+Prof. Jungmin So: jso1 at sogang dot ac dot kr  
 Joosang Lee: qsef3546 at sogang dot ac dot kr
-
-
-%My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie]
-(http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
