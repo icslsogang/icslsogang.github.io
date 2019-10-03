@@ -13,7 +13,7 @@ Welcome to Intelligent Connected Systems Laboratory. We conduct research on next
 
 ### People
 
-- Prof. Jungmin Soo
+- Prof. Jungmin So
 - Joosang Lee  (M.S. student)
 - Hyeonsang Cho (M.S. student)
 - Sanghyun Ahn (M.S. student)
