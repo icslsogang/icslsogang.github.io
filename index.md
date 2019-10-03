@@ -55,6 +55,8 @@ Attacks on networks and systems can be detected by machine learning techniques s
 
 ### Selected Publications
 
+<p> </p>
+
 - Dynamic Carrier Sense Threshold Selection for Improving Spatial Reuse in Next-Generation Wireless LANs. Jungmin So and Joosang Lee. MDPI Applied Sciences, 2019.
 - G-DCF: Improving System Spectral Efficiency through Concurrent Transmissions in Wireless LANs. Ayinebyona Eliab, Yonghwi Kim, Jeong-Gun Lee, Joosang Lee, and Jungmin So, Wireless Communications and Mobile Computing, 2019.
 - Immunity Characterization of FPGA I/Os for Fault-Tolerant Circuit Designs against EMI. Nguyen Van Toan, Dam Minh Tung, Jungmin So, and Jeong-Gun Lee. Advances in Electrical and Computer Engineering, 2019.
@@ -84,23 +86,21 @@ Attacks on networks and systems can be detected by machine learning techniques s
 
 ### Courses
 
-#### Fall 2019
+<p> </p>
 
+#### Fall 2019  
 CSE3081 Design and Analysis of Algorithms  
 CSE3040 Java Programming
 
-#### Spring 2019
-
+#### Spring 2019  
 CSE6423 Computer Networks I (Graduate)  
 CSE4100 System Programming
 
-#### Fall 2018
-
+#### Fall 2018  
 CSE4070 Operating Systems  
 CSE3081 Design and Analysis of Algorithms
 
-#### Prior Courses Taught by Prof. Jungmin So (at Hallym Univ.)
-
+#### Prior Courses Taught by Prof. Jungmin So (at Hallym Univ.)  
 Undergraduate: Data Communications, Computer Networks, Linear Algebra, Embedded Hardware Design, Embedded System Software  
 Graduate: Advanced Computer Networks, Seminars in Wireless Communication Networks, Topics in Wireless Communication Systems
 
