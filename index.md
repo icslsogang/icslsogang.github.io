@@ -7,22 +7,24 @@ subtitle: Intelligent Connected Systems Laboratory
 
 ### Introduction
 
-Welcome to Intelligent Connected Systems Laboratory. We conduct research on next-generation wireless systems including wireless LANs, mobile cellular networks, and wireless sensor networks. Our research interest also includes mobile computing such as localization and recognition using wireless signals, and machine learning techniques for security applications.
+Welcome to Intelligent Connected Systems Laboratory. We conduct research on machine learning and ML-based wireless network protocol design. 
 
 ---
 
 ### People
 
 - Prof. Jungmin So
-- Joosang Lee  (M.S. student)
-- Hyeonsang Cho (M.S. student)
 - Sanghyun Ahn (M.S. student)
-- Minjun Lee (Undergraduate Intern)
+- Minjun Lee (M.S. student)  
+- Sanglee Park (Undergraduate Intern)  
+- Heerin Yang (Undergraduate Intern)
 
 <p> </p>
 
 #### Former Graduate Students
 
+- Hyeonsang Cho (M.S., Sogang Univ.)
+- Joosang Lee (M.S., Sogang Univ.)
 - Yonghwi Kim (M.S., Hallym Univ.)
 - Ayinebyona Eliab (Ph.D., Hallym Univ.)
 - Jongsun Park (M.S., Hallym Univ.)
@@ -31,14 +33,15 @@ Welcome to Intelligent Connected Systems Laboratory. We conduct research on next
 
 ---
 
-### Research
+### Current Research
 
 <p> </p>
 
-#### Next-Generation Wireless Network Protocols
+#### ML-based Next-Generation Wireless Network Protocols
 
-Future wireless networks will need to cope with rapidly increasing traffic and population of users. Increasing capacity of wireless networks involves improving spectrum efficiency, utilizing new frequency bands, and using advanced hardware and software techniques such as full-duplex communication and non-orthogonal multiple access (NOMA). We are interested in designing protocols and algorithms that fully utilize the new hardware and techniques.
+Future wireless networks will need to cope with rapidly increasing traffic and population of users while supporting a very high quality of service. For example, the 6G network is expected to provide a peak data rate of 1,000Gbps (20Gbps in 5G), user experienced data rate of 1Gbps (100Mbps in 5G), latency less than 100us (1ms in 5G), and 10 million connections per 1km<sup>2</sup> (1 million in 5G). Achieving these service goals requires a highly efficient use of spectrum which may not be possible with conventional protocols and algorithms. We are interested in new spectrum sharing algorithms such as medium access protocols, that incorporate machine learning techniques to optimize spectrum usage in a future wireless environment including mobile cellular networks, wireless LANs (Wi-Fi), vehicular networks, and sensor networks. Specifically, we are interested in studying how machine learning based traffic prediction, user mobility prediction, and channel prediction can be used to improve spectrum efficiency and user experience.
 
+<!--
 #### Machine-to-Machine Communications and Their Applications 
 
 Nowadays everything is becoming “smart” mainly thanks to the networking technology. Devices communicate with other devices to do smart things, such as save energy in homes and detect hazards in factories. A large scale M2M network may consist of hundreds and thousands of devices communicating with each other to do collaborative work. They could be small devices with sensors, or large devices such as vehicles or drones. We are interested in designing reliable and energy-efficient protocols for data collection and data queries in large scale M2M networks, as well as application-oriented techniques for data fusion, such as distributed learning.
@@ -50,6 +53,7 @@ Wireless signals carry information, but the signals themselves can become useful
 #### Robust Machine Learning Techniques for Security Applications
 
 Attacks on networks and systems can be detected by machine learning techniques such as decision tree and neural networks. Known attacks can be recognized by detecting their signatures, but an unknown attack or a variation of a known attack is harder to catch. We use Generative Adversarial Networks (GAN) to find abnormal behavior in network frames and system parameters in order to find any new patterns that was not seen in normal conditions.
+-->
 
 ---
 
@@ -57,6 +61,8 @@ Attacks on networks and systems can be detected by machine learning techniques s
 
 <p> </p>
 
+- An Ensemble of Simple Convolutional Neural Network Models for MNIST Digit Recognition. Sanghyeon An, Minjun Lee, Sanglee Park, Heerin Yang, and Jungmin So. arXiv 2008.10400, 2020.
+- OppoFlood: An Energy-Efficient Data Dissemination Protocol for Asynchronous Duty-Cycled Wireless Sensor Networks. Hyeonsang Cho and Jungmin So. Wireless Communications and Mobile Computing, 2019.
 - Dynamic Carrier Sense Threshold Selection for Improving Spatial Reuse in Next-Generation Wireless LANs. Jungmin So and Joosang Lee. MDPI Applied Sciences, 2019.
 - G-DCF: Improving System Spectral Efficiency through Concurrent Transmissions in Wireless LANs. Ayinebyona Eliab, Yonghwi Kim, Jeong-Gun Lee, Joosang Lee, and Jungmin So, Wireless Communications and Mobile Computing, 2019.
 - Immunity Characterization of FPGA I/Os for Fault-Tolerant Circuit Designs against EMI. Nguyen Van Toan, Dam Minh Tung, Jungmin So, and Jeong-Gun Lee. Advances in Electrical and Computer Engineering, 2019.
