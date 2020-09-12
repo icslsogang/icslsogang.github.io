@@ -23,9 +23,6 @@ Prof. Jungmin So at (jso1[AT]sogang.ac.kr). Research topics of our interest incl
   - Few-shot learning with small training data
   - Robust learning against adversarial example attacks
   - Application-specific learning algorithms
-    - object and text recognition from image and video
-    - natural language inference and question answering
-    - speech recognition
 
 ---
 
@@ -122,6 +119,13 @@ Attacks on networks and systems can be detected by machine learning techniques s
 ### Courses
 
 <p> </p>
+
+#### Fall 2020
+CSE3040 Java Programming
+
+#### Spring 2020
+CSE6423 Computer Networks II (Graduate)  
+CSE3080 Data Structures
 
 #### Fall 2019  
 CSE3081 Design and Analysis of Algorithms  
