@@ -4,6 +4,28 @@ title: ICSL
 subtitle: Intelligent Connected Systems Laboratory
 ---
 
+### For prospective students
+
+If you are interested in wireless networking and/or machine learning and would like to pursue an MS, MS/PhD, PhD degree in this area, please contact
+Prof. Jungmin So at (jso1[AT]sogang.ac.kr). Research topics of our interest include:  
+
+- ML-based network protocol design
+  - Medium access and spectrum sharing protocols for Wi-Fi and 5G cellular networks
+  - Internet of Things, cyber physical systems, and robot swarms
+  - Vehicular networks and unmanned aeriel vehicle (drone) networks
+  - Smartphone based (energy-efficient) mobile computing applications
+  - Edge computing and its applications
+  
+- Machine learning and its applications
+  - Machine learning techniques for unbiased and generalized learning
+  - Few-shot learning with small training data
+  - Robust learning against adversarial example attacks
+  - Application-specific learning algorithms
+    - object and text recognition from image and video
+    - natural language inference and question answering
+    - speech recognition
+
+---
 
 ### Introduction
 
@@ -40,6 +62,11 @@ Welcome to Intelligent Connected Systems Laboratory. We conduct research on mach
 #### ML-based Next-Generation Wireless Network Protocols
 
 Future wireless networks will need to cope with rapidly increasing traffic and population of users while supporting a very high quality of service. For example, the 6G network is expected to provide a peak data rate of 1,000Gbps (20Gbps in 5G), user experienced data rate of 1Gbps (100Mbps in 5G), latency less than 100us (1ms in 5G), and 10 million connections per 1km<sup>2</sup> (1 million in 5G). Achieving these service goals requires a highly efficient use of spectrum which may not be possible with conventional protocols and algorithms. We are interested in new spectrum sharing algorithms such as medium access protocols, that incorporate machine learning techniques to optimize spectrum usage in a future wireless environment including mobile cellular networks, wireless LANs (Wi-Fi), vehicular networks, and sensor networks. Specifically, we are interested in studying how machine learning based traffic prediction, user mobility prediction, and channel prediction can be used to improve spectrum efficiency and user experience.
+
+#### Machine Learning Models and Algorithms for Understanding Humans and Environments
+
+Machine learning technology is currently at the center of innovations across a vast range of applications such as image and video recognition, speech recognition, natural language processing, email classification and spam filtering, traffic prediction, medical services, etc. Specifically, machine learning based on deep neural networks are achieving performance comparable to human. Although machine learning performs well on specific tasks using specific data sets, it is still far from catching up with human brain which can learn abstract knowledge from one task and apply knowledge across multiple tasks. We are interested in desigining models and new algorithms for machine learning that can mimic how humans think. 
+
 
 <!--
 #### Machine-to-Machine Communications and Their Applications 
