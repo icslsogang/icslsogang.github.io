@@ -6,6 +6,8 @@ subtitle: Intelligent Connected Systems Laboratory
 
 ### For prospective students
 
+무선네트워크 및 머신러닝 연구와 관련하여 대학원 과정(석사, 석박통합, 박사)에 관심이 있는 분들은 (jso1[AT]sogang.ac.kr)로 연락하시기 바랍니다.
+
 If you are interested in wireless networking and/or machine learning and would like to pursue an MS, MS/PhD, PhD degree in this area, please contact
 Prof. Jungmin So at (jso1[AT]sogang.ac.kr). Research topics of our interest include:  
 
