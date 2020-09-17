@@ -150,4 +150,4 @@ Graduate: Advanced Computer Networks, Seminars in Wireless Communication Network
 Office: AS-818, Adam Schall Building, Sogang University  
 35 Baekbeom-ro, Mapo-gu, Seoul 04107, Korea  
 Prof. Jungmin So: jso1 at sogang dot ac dot kr  
-Joosang Lee: qsef3546 at sogang dot ac dot kr
+Sanghyeon An: ansh941 at sogang dot ac dot kr
