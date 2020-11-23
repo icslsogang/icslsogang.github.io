@@ -4,6 +4,9 @@ title: KCSA
 subtitle: Korean Children's Speech Archives
 ---
 
+![title](kcsa_logo.png){: width="100%" height="100%"}
+
+
 ### For prospective students
 
 무선네트워크 및 머신러닝 연구와 관련하여 대학원 과정(석사, 석박통합, 박사)에 관심이 있는 분들은 (jso1[AT]sogang.ac.kr)로 연락하시기 바랍니다.
