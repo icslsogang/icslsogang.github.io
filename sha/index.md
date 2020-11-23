@@ -1,7 +1,6 @@
 ---
 layout: page
-title: ICSL
-subtitle: Intelligent Connected Systems Laboratory
+title: Korean Children's Speech Archives
 ---
 
 ### For prospective students
