@@ -4,7 +4,7 @@ title: KCSA
 subtitle: Korean Children's Speech Archives
 ---
 
-![title](kcsa_logo.png){: width="100%" height="100%"}
+![title](kcsa_logo.png)
 
 
 ### For prospective students
