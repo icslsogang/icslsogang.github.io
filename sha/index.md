@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Korean Children's Speech Archives
+title: KCSA
+subtitle: Korean Children's Speech Archives
 ---
 
 ### For prospective students
