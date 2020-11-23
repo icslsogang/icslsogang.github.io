@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KCSA
-subtitle: Korean Children's Speech Archives
+subtitle: Korean Children's Speech Archive
 ---
 
 ![title](kcsa_logo.png)
