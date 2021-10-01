@@ -17,6 +17,10 @@ body {
   background-attachment: fixed;
   {% endif %}
 }
+body i[class*="fa"] {
+  font-family:'FontAwesome'!important;
+  font-style:normal;
+}
 p {
   line-height: 1.5;
   margin: 30px 0;
@@ -27,6 +31,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 a {
   color: {{ site.link-col }};
+}
+a[class~="fa"] {
+  color: #404040;
 }
 a:hover,
 a:focus {
@@ -523,7 +530,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 50px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
