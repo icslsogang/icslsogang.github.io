@@ -6,8 +6,8 @@ subtitle: Intelligent Connected Systems Laboratory
 ---
 ### Selected Publications
 
-- Metric-Based Learning for Nearest-Neighbor Few-Shot Image Classification. Min Jun Lee, and Jungmin So. 2021 International Conference on Information Networking (ICOIN), 2021.
-- On the effectiveness of adversarial training in defending against adversarial example attacks for image classification. Sanglee Park, and Jungmin So. MDPI Applied Sciences, 2020.
+- Metric-Based Learning for Nearest-Neighbor Few-Shot Image Classification. Min Jun Lee and Jungmin So. 2021 International Conference on Information Networking (ICOIN), 2021.
+- On the effectiveness of adversarial training in defending against adversarial example attacks for image classification. Sanglee Park and Jungmin So. MDPI Applied Sciences, 2020.
 - An Ensemble of Simple Convolutional Neural Network Models for MNIST Digit Recognition. Sanghyeon An, Minjun Lee, Sanglee Park, Heerin Yang, and Jungmin So. arXiv 2008.10400, 2020.
 - OppoFlood: An Energy-Efficient Data Dissemination Protocol for Asynchronous Duty-Cycled Wireless Sensor Networks. Hyeonsang Cho and Jungmin So. Wireless Communications and Mobile Computing, 2019.
 - Dynamic Carrier Sense Threshold Selection for Improving Spatial Reuse in Next-Generation Wireless LANs. Jungmin So and Joosang Lee. MDPI Applied Sciences, 2019.
