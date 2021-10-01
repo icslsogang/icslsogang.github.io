@@ -19,11 +19,15 @@ description: Intelligent Connected Systems Laboratory
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-#navbar-links:
-#  About Me: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
+navbar-links:
+  Home: "/"
+  Team:
+    - Current Members: "members"
+    - Alumni: "alumni"
+  Research: "research"
+  Publication: "publications"
+  Courses: "courses"
+
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -156,7 +160,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: 
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -167,16 +171,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
     values:
       layout: "page"
@@ -251,6 +253,9 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll_icon_list
+
+include: ['_pages']
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
