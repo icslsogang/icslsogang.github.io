@@ -37,4 +37,4 @@ Prof. Jungmin So at (jso1@sogang.ac.kr). Research topics of our interest include
 Office: AS-1013, Adam Schall Building, Sogang University  
 35 Baekbeom-ro, Mapo-gu, Seoul 04107, Korea  
 Prof. Jungmin So: jso1@sogang.ac.kr  
-Minjun Lee: roblee100@sogang.ac.kr
+Sanglee Park: slp5@sogang.ac.kr
