@@ -4,12 +4,6 @@
     email: jso1@sogang.ac.kr
   identification: prof
 
-- name: Minjun Lee
-  social-network-links:
-    github: roblee10
-    email: roblee100@sogang.ac.kr
-  identification: ms
-
 - name: Sanglee Park
   social-network-links:
     github: sanglee325
@@ -34,8 +28,26 @@
     email: seon8315@sogang.ac.kr
   identification: ms
 
+- name: Seokhee Jo
+  social-network-links:
+    github: joseokhee
+    email: joseokhee44@gmail.com
+  identification: ms
+
+- name: Minseok Gong
+  social-network-links:
+    github: kongminseok
+    email: ksjaizen@protonmail.com
+  identification: ms
+
 - name: Hyerin Kim
   social-network-links:
     github: mye785C83
     email: gpgp0117@sogang.ac.kr
+  identification: ug
+
+- name: Yunjung Eom
+  social-network-links:
+    github: 
+    email: yunjung2972@naver.com
   identification: ug

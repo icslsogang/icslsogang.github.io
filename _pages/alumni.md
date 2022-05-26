@@ -19,7 +19,7 @@ subtitle: Intelligent Connected Systems Laboratory
         {{ member.grad-year }}
         
         {% if member.current %}
-        ({{ member.current }})
+        (@{{ member.current }})
         {% endif %}
     </div>
   </li>

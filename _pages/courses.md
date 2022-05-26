@@ -5,6 +5,11 @@ title: Courses
 subtitle: Intelligent Connected Systems Laboratory
 ---
 
+### Spring 2022
+
+CSE4175 Computer Networks  
+CSE3080 Data Structures
+
 ### Fall 2021
 
 CSE6423 Computer Networks I (Graduate)  
