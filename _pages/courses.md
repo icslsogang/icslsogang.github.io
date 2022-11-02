@@ -5,6 +5,12 @@ title: Courses
 subtitle: Intelligent Connected Systems Laboratory
 ---
 
+### Fall 2022
+
+CSE6516 Introduction to Reinforcement Learning (Graduate)  
+CSE6471 Topics in Intelligent Networked Systems (Graduate)  
+CSE3081 Design and Analysis of Algorithms
+
 ### Spring 2022
 
 CSE4175 Computer Networks  
