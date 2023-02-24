@@ -5,50 +5,23 @@ title: Courses
 subtitle: Intelligent Connected Systems Laboratory
 ---
 
-### Fall 2022
+### Undergraduate
 
-CSE6516 Introduction to Reinforcement Learning (Graduate)  
-CSE6471 Topics in Intelligent Networked Systems (Graduate)  
-CSE3081 Design and Analysis of Algorithms
+- CSE3080 Data Structures  
+- CSE3081 Design and Analysis of Algorithms  
+- CSE4175 Computer Networks  
+- CSE3040 Java Programming  
+- CSE4070 Operating Systems  
+- CSE4100 System Programming  
 
-### Spring 2022
+---
 
-CSE4175 Computer Networks  
-CSE3080 Data Structures
+### Graduate
 
-### Fall 2021
-
-CSE6423 Computer Networks I (Graduate)  
-CSE3080 Data Structures
-
-### Spring 2021
-
-CSE4175 Computer Networks  
-CSE3080 Data Structures
-
-### Fall 2020
-
-CSE3040 Java Programming
-
-### Spring 2020
-
-CSE6424 Computer Networks II (Graduate)  
-CSE3080 Data Structures  
-
-### Fall 2019
-
-CSE3081 Design and Analysis of Algorithms  
-CSE3040 Java Programming
-
-### Spring 2019
-
-CSE6423 Computer Networks I (Graduate)  
-CSE4100 System Programming
-
-### Fall 2018
-
-CSE4070 Operating Systems  
-CSE3081 Design and Analysis of Algorithms
+- CSE6423 Computer Networks I  
+- CSE6424 Computer Networks II  
+- CSE6471 Topics in Intelligent Networked Systems  
+- CSE6516 Introduction to Reinforcement Learning  
 
 ---
 

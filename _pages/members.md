@@ -29,6 +29,30 @@ subtitle: Intelligent Connected Systems Laboratory
 
 ---
 
+### Ph.D. Students
+
+<ul>
+{% for member in site.data.members %}
+  {% if member.identification == "phd" %}
+  <li>
+    {{ member.name }}
+    {% if member.social-network-links.github %}
+    <a class="fa" href="https://github.com/{{ member.social-network-links.github }}">
+      <i class="fab fa-github" title="Github"></i>
+    </a>
+    {% endif %}
+    {% if member.social-network-links.email %}
+    <a class="fa" href="mailto:{{ member.social-network-links.email }}">
+      <i class="fas fa-envelope" title="E-Mail"></i>
+    </a>
+    {% endif %}
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+---
+
 ### M.S. Students
 
 <ul>

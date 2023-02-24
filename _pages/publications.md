@@ -6,6 +6,8 @@ subtitle: Intelligent Connected Systems Laboratory
 ---
 ### Selected Publications
 
+- SMCL: Saliency Masked Contrastive Learning for Long-tailed Recognition. Sanglee Park, Seung-won Hwang and Jungmin So. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
+- Empirical Analysis of Automated Stock Trading Using Deep Reinforcement Learning. Minseok Kong and Jungmin So. MDPI Applied Sciences, 2023.
 - Improving Spatial Reuse of Wireless LAN Uplink Using BSS Color and Proximity Information. Hyerin Kim and Jungmin So. MDPI Applied Sciences, 2021.
 - Metric-Based Learning for Nearest-Neighbor Few-Shot Image Classification. Min Jun Lee and Jungmin So. 2021 International Conference on Information Networking (ICOIN), 2021.
 - On the Effectiveness of Adversarial Training in Defending Against Adversarial Example Attacks for Image Classification. Sanglee Park and Jungmin So. MDPI Applied Sciences, 2020.
