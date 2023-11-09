@@ -6,7 +6,8 @@ subtitle: Intelligent Connected Systems Laboratory
 ---
 ### Selected Publications
 
-- Relation-based Counterfactual Data Augmentation and Contrastive Learning for Robustifying Natural Language Inference Models. Heerin Yang, Seung-won Hwang, and Jungmin So. INTERSPEECH 2023.
+- Improving Spatial Reuse of Wireless LANs using Contextual Bandits. Hyerin Kim, Gwanwoo Na, Heeseon Im, Jungmin So. IEEE Transactions on Wireless Communications, 2023.
+- Relation-based Counterfactual Data Augmentation and Contrastive Learning for Robustifying Natural Language Inference Models. Heerin Yang, Seung-won Hwang, and Jungmin So. INTERSPEECH, 2023.
 - SMCL: Saliency Masked Contrastive Learning for Long-tailed Recognition. Sanglee Park, Seung-won Hwang, and Jungmin So. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 - Empirical Analysis of Automated Stock Trading Using Deep Reinforcement Learning. Minseok Kong and Jungmin So. MDPI Applied Sciences, 2023.
 - Improving Spatial Reuse of Wireless LAN Uplink Using BSS Color and Proximity Information. Hyerin Kim and Jungmin So. MDPI Applied Sciences, 2021.
