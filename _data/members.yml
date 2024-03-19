@@ -10,18 +10,6 @@
     email: ngs3637@sogang.ac.kr
   identification: phd
 
-- name: Heeseon Im
-  social-network-links:
-    github: IHS618
-    email: seon8315@sogang.ac.kr
-  identification: ms
-
-- name: Seokhee Jo
-  social-network-links:
-    github: joseokhee
-    email: joseokhee44@gmail.com
-  identification: ms
-
 - name: Minseok Kong
   social-network-links:
     github: kongminseok
@@ -51,12 +39,6 @@
     github: dlwogns312
     email: dlwogns312@gmail.com
   identification: ms
-
-- name: Hyerin Kim
-  social-network-links:
-    github: mye785C83
-    email: gpgp0117@sogang.ac.kr
-  identification: ug
 
 - name: Se Im Sung
   social-network-links:
