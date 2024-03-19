@@ -11,13 +11,12 @@ subtitle: Intelligent Connected Systems Laboratory
 {% for member in site.data.alumni %}
   <li>
     <div>
-        {{ member.name }}, {{ member.identification }},
+        {{ member.name }} 
+        {{ member.identification }}
         {% if member.univ %}
-        {{ member.univ}},
+        {{ member.univ}}
         {% endif %}
-
         {{ member.grad-year }}
-        
         {% if member.current %}
         (@{{ member.current }})
         {% endif %}
