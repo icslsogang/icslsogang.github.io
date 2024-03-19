@@ -42,8 +42,14 @@
 
 - name: Gahye Kim
   social-network-links:
-    github: 
+    github: GaHyeK
     email: gahye007@gmail.com
+  identification: ms
+
+- name: JaeHoon Lee
+  social-network-links:
+    github: dlwogns312
+    email: dlwogns312@gmail.com
   identification: ms
 
 - name: Hyerin Kim
