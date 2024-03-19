@@ -1,3 +1,21 @@
+- name: Seokhee Jo
+  current:
+  univ:
+  grad-year: 2023
+  identification: MS
+
+- name: Heeseon Im
+  current:
+  univ:
+  grad-year: 2023
+  identification: MS
+
+- name: Hyerin Kim
+  current: MS, Seoul National Univ.
+  univ:
+  grad-year: 2023
+  identification: UG
+
 - name: Sanglee Park
   current: 
   univ:
@@ -11,7 +29,7 @@
   identification: MS
 
 - name: Gwanwoo Na
-  current: 
+  current: Ph.D
   univ:
   grad-year: 2023
   identification: MS
