@@ -5,7 +5,7 @@ title: Publications
 subtitle: Intelligent Connected Systems Laboratory
 ---
 ### Selected Publications
-- Automatic Children Speech Sound Disorder Detection with Age and Speaker Bias Mitigation. GaHye Kim, Yunjung Eom, Selina(Seim) Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So. INTERSPEECH, 2024.
+- Automatic Children Speech Sound Disorder Detection with Age and Speaker Bias Mitigation. GaHye Kim, Yunjung Eom, Selina S. Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So. INTERSPEECH, 2024.
 - Improving Spatial Reuse of Wireless LANs using Contextual Bandits. Hyerin Kim, Gwanwoo Na, Heeseon Im, Jungmin So. IEEE Transactions on Wireless Communications, 2023.
 - Relation-based Counterfactual Data Augmentation and Contrastive Learning for Robustifying Natural Language Inference Models. Heerin Yang, Seung-won Hwang, and Jungmin So. INTERSPEECH, 2023.
 - SMCL: Saliency Masked Contrastive Learning for Long-tailed Recognition. Sanglee Park, Seung-won Hwang, and Jungmin So. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
