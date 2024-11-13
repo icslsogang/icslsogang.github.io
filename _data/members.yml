@@ -10,12 +10,6 @@
     email: ngs3637@sogang.ac.kr
   identification: phd
 
-- name: Minseok Kong
-  social-network-links:
-    github: kongminseok
-    email: ksjaizen@protonmail.com
-  identification: ms
-
 - name: Yunjung Eom
   social-network-links:
     github: 
@@ -38,6 +32,12 @@
   social-network-links:
     github: dlwogns312
     email: dlwogns312@gmail.com
+  identification: ms
+
+- name: Woori Jeon
+  social-network-links:
+    github: woori0214
+    email: woori50300@gmail.com
   identification: ms
 
 - name: Se Im Sung
