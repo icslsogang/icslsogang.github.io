@@ -5,6 +5,7 @@ title: Publications
 subtitle: Intelligent Connected Systems Laboratory
 ---
 ### Selected Publications
+- Supervised Contrastive Learning with Importance-based CutOut for Few-shot Image Classification. Seokhee Jo and Jungmin So. Symposium on Applied Computing, 2025.
 - Automatic Children Speech Sound Disorder Detection with Age and Speaker Bias Mitigation. GaHye Kim, Yunjung Eom, Selina S. Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So. INTERSPEECH, 2024.
 - Improving Spatial Reuse of Wireless LANs using Contextual Bandits. Hyerin Kim, Gwanwoo Na, Heeseon Im, Jungmin So. IEEE Transactions on Wireless Communications, 2023.
 - Relation-based Counterfactual Data Augmentation and Contrastive Learning for Robustifying Natural Language Inference Models. Heerin Yang, Seung-won Hwang, and Jungmin So. INTERSPEECH, 2023.
