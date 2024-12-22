@@ -5,6 +5,8 @@ title: Publications
 subtitle: Intelligent Connected Systems Laboratory
 ---
 ### Selected Publications
+- Simulating Mobile Robot Vision: An Analysis of RGB-D versus RGB Based Distance Accuracy and CPU Optimization. Minseok Kong, Jiho Park, Daye Lee, Nikolaos Kourtzanidis, Jungmin So. ICAIIC, 2025.
+- Neural Network-aided Cell Selection and Handover in Cellular Networks with Carrier Aggregation. Haerim Ga, Gwanwoo Na, Gahye Kim, and Jungmin So. ICAIIC, 2025.
 - Supervised Contrastive Learning with Importance-based CutOut for Few-shot Image Classification. Seokhee Jo and Jungmin So. Symposium on Applied Computing, 2025.
 - Automatic Children Speech Sound Disorder Detection with Age and Speaker Bias Mitigation. GaHye Kim, Yunjung Eom, Selina S. Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So. INTERSPEECH, 2024.
 - Improving Spatial Reuse of Wireless LANs using Contextual Bandits. Hyerin Kim, Gwanwoo Na, Heeseon Im, Jungmin So. IEEE Transactions on Wireless Communications, 2023.
