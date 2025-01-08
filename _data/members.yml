@@ -10,23 +10,11 @@
     email: ngs3637@sogang.ac.kr
   identification: phd
 
-- name: Yunjung Eom
-  social-network-links:
-    github: 
-    email: yunjung2972@naver.com
-  identification: ms
-
-- name: Hyerim Ga
-  social-network-links:
-    github: 
-    email: 
-  identification: ms
-
 - name: Gahye Kim
   social-network-links:
     github: GaHyeK
     email: gahye007@gmail.com
-  identification: ms
+  identification: phd
 
 - name: JaeHoon Lee
   social-network-links:
@@ -38,6 +26,12 @@
   social-network-links:
     github: woori0214
     email: woori50300@gmail.com
+  identification: ms
+
+- name: KyuBeom Nam
+  social-network-links:
+    github: beom0124
+    email: beom000124@gmail.com
   identification: ms
 
 - name: Se Im Sung
