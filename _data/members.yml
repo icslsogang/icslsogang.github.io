@@ -16,11 +16,11 @@
     email: gahye007@gmail.com
   identification: phd
 
-- name: JaeHoon Lee
+- name: Sooyoung Lee
   social-network-links:
-    github: dlwogns312
-    email: dlwogns312@gmail.com
-  identification: ms
+    github: sylee343
+    email: sylee343@gmail.com
+  identification: phd
 
 - name: Woori Jeon
   social-network-links:
@@ -33,7 +33,19 @@
     github: beom0124
     email: beom000124@gmail.com
   identification: ms
+  
+- name: Hyoree Ham
+  social-network-links:
+    github: hyoree127
+    email: hyoree.ham@gmail.com
+  identification: ms
 
+- name: Hyeongwon Ham
+  social-network-links:
+    github: HyeongwonHam
+    email: hahywo1214@naver.com
+  identification: ms
+  
 - name: Se Im Sung
   social-network-links:
     github: 
