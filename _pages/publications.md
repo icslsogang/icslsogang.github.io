@@ -5,6 +5,7 @@ title: Publications
 subtitle: Intelligent Connected Systems Laboratory
 ---
 ### Selected Publications
+- Prediction-Based Proactive Handover for Reliable Connectivity in Terahertz Vehicular Networks. Gwanwoo Na, Gahye Kim, Woori Jeon, Kyubeom Nam, Hyoree Ham, Jun-Sik Kim, Soon-Gi Park, and Jungmin So. IEEE Transactions on Vehicular Technology, 2026.
 - Multitask Learning with Fused Attention for Improved ASR and Mispronunciation Detection in Children's Speech Sound Disorders. Selina S. Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So. INTERSPEECH, 2025.
 - Simulating Mobile Robot Vision: An Analysis of RGB-D versus RGB Based Distance Accuracy and CPU Optimization. Minseok Kong, Jiho Park, Daye Lee, Nikolaos Kourtzanidis, Jungmin So. ICAIIC, 2025.
 - Neural Network-aided Cell Selection and Handover in Cellular Networks with Carrier Aggregation. Haerim Ga, Gwanwoo Na, Gahye Kim, and Jungmin So. ICAIIC, 2025.
