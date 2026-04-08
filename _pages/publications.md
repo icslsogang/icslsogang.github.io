@@ -6,11 +6,12 @@ subtitle: Intelligent Connected Systems Laboratory
 ---
 ### Selected Publications
 - Prediction-Based Proactive Handover for Reliable Connectivity in Terahertz Vehicular Networks. Gwanwoo Na, Gahye Kim, Woori Jeon, Kyubeom Nam, Hyoree Ham, Jun-Sik Kim, Soon-Gi Park, and Jungmin So. IEEE Transactions on Vehicular Technology, 2026.
+- Multi-Model ASR Integration With Reliability Weighting for Automated Speech Disorder Screening. Selina S. Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So, IEEE Access, 2026.
 - Multitask Learning with Fused Attention for Improved ASR and Mispronunciation Detection in Children's Speech Sound Disorders. Selina S. Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So. INTERSPEECH, 2025.
 - Simulating Mobile Robot Vision: An Analysis of RGB-D versus RGB Based Distance Accuracy and CPU Optimization. Minseok Kong, Jiho Park, Daye Lee, Nikolaos Kourtzanidis, Jungmin So. ICAIIC, 2025.
 - Neural Network-aided Cell Selection and Handover in Cellular Networks with Carrier Aggregation. Haerim Ga, Gwanwoo Na, Gahye Kim, and Jungmin So. ICAIIC, 2025.
 - Supervised Contrastive Learning with Importance-based CutOut for Few-shot Image Classification. Seokhee Jo and Jungmin So. Symposium on Applied Computing, 2025.
-- Automatic Children Speech Sound Disorder Detection with Age and Speaker Bias Mitigation. GaHye Kim, Yunjung Eom, Selina S. Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So. INTERSPEECH, 2024.
+- Automatic Children Speech Sound Disorder Detection with Age and Speaker Bias Mitigation. Gahye Kim, Yunjung Eom, Selina S. Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So. INTERSPEECH, 2024.
 - Improving Spatial Reuse of Wireless LANs using Contextual Bandits. Hyerin Kim, Gwanwoo Na, Heeseon Im, Jungmin So. IEEE Transactions on Wireless Communications, 2023.
 - Relation-based Counterfactual Data Augmentation and Contrastive Learning for Robustifying Natural Language Inference Models. Heerin Yang, Seung-won Hwang, and Jungmin So. INTERSPEECH, 2023.
 - SMCL: Saliency Masked Contrastive Learning for Long-tailed Recognition. Sanglee Park, Seung-won Hwang, and Jungmin So. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
