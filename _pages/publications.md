@@ -5,7 +5,9 @@ title: Publications
 subtitle: Intelligent Connected Systems Laboratory
 ---
 ### Selected Publications
+- Session-Aware Collaborative Perception over NR V2X Sidelink via Unicast Session Management. Kyubeom Nam and Jungmin So. IEEE GLOBECOM, 2026
 - Not All Frames Are Equal: Difference-Aware Quantization for Ultra-Low-Bit ASR. Woori Jeon, and Jungmin So. INTERSPEECH, 2026.
+- Disentangling Depression from Cognitive Decline in Elderly Speech Using Concurrent Clinical Assessments. Woori Jeon, Seunghee Ha, Sang-Kyu Lee, Ji Hye Yoon, Tae-Jin Yoon, Seung Jin Lee, Woojae Han, Jungmin So. INTERSPEECH, 2026.
 - 강화학습 기반 대규모 언어 모델의 자동화된 혼합 정밀도 양자화 연구. 전우리, 소정민. KICS 한국통신학회 2026년도 하계종합학술발표회.
 - Prediction-Based Proactive Handover for Reliable Connectivity in Terahertz Vehicular Networks. Gwanwoo Na, Gahye Kim, Woori Jeon, Kyubeom Nam, Hyoree Ham, Jun-Sik Kim, Soon-Gi Park, and Jungmin So. IEEE Transactions on Vehicular Technology, 2026.
 - Multi-Model ASR Integration With Reliability Weighting for Automated Speech Disorder Screening. Selina S. Sung, Seunghee Ha, Tae-Jin Yoon, Jungmin So, IEEE Access, 2026.
